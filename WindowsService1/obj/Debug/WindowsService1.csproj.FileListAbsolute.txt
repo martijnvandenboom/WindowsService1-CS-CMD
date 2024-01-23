@@ -1,0 +1,14 @@
+C:\Users\mvdbo\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\mvdbo\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\mvdbo\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\mvdbo\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.AssemblyReference.cache
+C:\Users\mvdbo\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+C:\Users\mvdbo\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\mvdbo\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
+C:\Users\martijn.vanden.boom\Documents\Source\CS\WindowsService1\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\martijn.vanden.boom\Documents\Source\CS\WindowsService1\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\martijn.vanden.boom\Documents\Source\CS\WindowsService1\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\martijn.vanden.boom\Documents\Source\CS\WindowsService1\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.AssemblyReference.cache
+C:\Users\martijn.vanden.boom\Documents\Source\CS\WindowsService1\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+C:\Users\martijn.vanden.boom\Documents\Source\CS\WindowsService1\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\martijn.vanden.boom\Documents\Source\CS\WindowsService1\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
